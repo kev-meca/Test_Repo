@@ -1,0 +1,24 @@
+Last login: Wed Aug 16 21:45:07 on ttys002
+(base) kevin@MacBook-Pro-de-Kevin ~ % Hola mundo 
+zsh: command not found: Hola
+(base) kevin@MacBook-Pro-de-Kevin ~ % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
