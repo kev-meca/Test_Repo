@@ -1,9 +1,7 @@
-Last login: Thu Aug 17 17:40:05 on ttys000
-(base) kevin@MacBook-Pro-de-Kevin ~ % mis notas personas
-
-
-
-
+Last login: Thu Aug 17 17:46:40 on ttys000
+(base) kevin@MacBook-Pro-de-Kevin ~ % Hola mundo este es un archivo que voy a compartir con ustedes 
+zsh: command not found: Hola
+(base) kevin@MacBook-Pro-de-Kevin ~ % este es un archico que voy a compartir con ustedes 
 
 
 
